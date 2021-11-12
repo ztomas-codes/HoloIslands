@@ -1,0 +1,6 @@
+name: HoloIslands
+version: '${project.version}'
+main: me.lordmefloun.holoislands.HoloIslands
+api-version: 1.17
+authors: [ LordMefloun ]
+depend: [BentoBox]

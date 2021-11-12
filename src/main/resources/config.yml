@@ -1,0 +1,20 @@
+hologram-adjust:
+  x: 0.5
+  y: 5
+  z: 0.5
+lines:
+  - "&x&0&5&e&6&0&0☀ &x&0&0&e&6&4&e&lSrdce Ostrova  &x&0&5&e&6&0&0☀"
+  - "&fVlastnik &x&0&5&e&6&0&0{player_name}"
+  - ""
+  - "&fLevel srdce: &x&d&5&e&6&1&7{retroxtiers_tier}&c"
+  - "&fNázev ostrova: &x&d&5&e&6&1&7%superior_island_location_name%"
+  - "&fOstrovnich bodu: &x&d&5&e&6&1&7%superior_island_location_worth% &8(&x&e&6&2&e&2&e#%superior_island_location_top_worth_position%&8)"
+  - "&fPočet členů ostrova: &x&d&5&e&6&1&7%superior_island_location_team_size%&8/&x&d&5&e&6&1&7%superior_island_location_team_limit%"
+  - "&fVelikost: &x&d&5&e&6&1&7%superior_island_location_size_format%"
+  - ""
+  - "&fOstrovní úkol: &x&d&5&e&6&1&7%ssbq_quest% &8(&f/is quests&8)"
+  - ""
+  - "&x&0&5&e&6&0&0[Prave]&f otevre &x&0&5&e&6&0&0panel ostrova"
+  - "&x&0&5&e&6&0&0[Shift+Leve]&f schová hologram"
+  - ""
+  - "ICON:NETHER_STAR"
